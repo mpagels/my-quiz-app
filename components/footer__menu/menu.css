@@ -18,7 +18,8 @@
 .flexbox-container-menu__item-bookmark {
   border: 2px solid #079ad9;
   border-radius: 5px;
-  color: #079ad9;
+  color: white;
+  background-color: #079ad9;
   padding: 1rem;
 }
 .flexbox-container-menu__item-create {
